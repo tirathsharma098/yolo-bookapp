@@ -6,4 +6,4 @@ jobs:
   print_message:
     runs-on: ubuntu-latest
     steps:
-      - run: Commits successfully merged or pushed in master branch
+      - run: echo "Commits successfully merged or pushed in master branch"
